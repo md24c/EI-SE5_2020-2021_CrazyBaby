@@ -4,9 +4,9 @@ Notre projet consiste à réaliser un système de soins pour bébé en cas d’a
 Selon les différents serveurs utilisés, l'ensemble de notre projet est divisé en deux parties. La version 1 est basée sur le serveur fourni par Home Assistant, qui nous offre la possibilité de développer des projets IoT plus rapidement et plus facilement. La version 2 est basée sur notre serveur self-made, qui nous permet de mettre en pratique ce que nous avons appris pendant le cours IOT. Pour une introduction détaillée, veuillez consulter le cahier des charges et les documents listés.
 
 ### Les documents listés incluent:
-- Cahier des charges_crazybaby.pdf     *Cahier des charges de notre projet*
-- version1 home_assistant.pdf          *Le registre qui atteste les travails réalisés dans la version home assistant* 
-- version2 serveur_python.pdf          *Le registre de la deuxième version qui utilisent le serveur en Python* 
+- Cahier des charges_crazybaby.pdf         *Cahier des charges de notre projet*
+- version1 home_assistant.pdf              *Le registre qui atteste les travails réalisés dans la version home assistant* 
+- version2 serveur_python.pdf              *Le registre de la deuxième version qui utilisent le serveur en Python* 
 
 
 ### Les codes utilisés dans le projet:
